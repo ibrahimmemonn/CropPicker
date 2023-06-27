@@ -1,0 +1,13 @@
+current directory: /Volumes/Ibrahim Data/React-Native-Test/ReactTestingProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/ibrahimmemon/.rbenv/versions/2.7.5/bin/ruby -I /Users/ibrahimmemon/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20230627-4363-fvo3xs.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/Ibrahim Data/React-Native-Test/ReactTestingProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Volumes/Ibrahim Data/React-Native-Test/ReactTestingProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Volumes/Ibrahim Data/React-Native-Test/ReactTestingProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
